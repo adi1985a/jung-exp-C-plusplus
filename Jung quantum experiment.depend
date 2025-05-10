@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1678235341 source:c:\users\hp\desktop\programy na github\c++\programs\jung quantum experiment\program kwantowy\program kwantowy\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1680099777 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\jung quantum experiment\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<cmath>
+	<iomanip>
+	<windows.h>
+

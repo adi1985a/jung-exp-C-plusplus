@@ -26,6 +26,8 @@ _A C++ console application demonstrating the wave-particle duality of quantum me
 *   **Without an Observer**: Simulates wave-like behavior, leading to an interference pattern as electrons appear to pass through both slits simultaneously or interact with the wall.
 The simulation uses random number generation for electron paths, calculates a simplified interference pattern, and features a colorful Windows-specific console interface. Configurations like sample size and program title are managed through a user-provided `config.h` file.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features & Experiment Modes
 
 *   🔬 **Dual Experiment Modes**:
@@ -49,9 +51,21 @@ The simulation uses random number generation for electron paths, calculates a si
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, the output for the "With Observer" mode (slit hits, ASCII viz), the output for the "Without Observer" mode (interference pattern, blackboard viz), and other relevant UI elements._
 
-_This section will be updated with screenshots showcasing the main menu, the output for the "With Observer" mode (slit hits, ASCII viz), the output for the "Without Observer" mode (interference pattern, blackboard viz), and other relevant UI elements._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
